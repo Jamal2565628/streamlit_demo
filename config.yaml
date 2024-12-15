@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    jsmith:
+      email: jamal2565628@gmail.com
+      name: Jamal
+      password: abc # To be replaced with hashed password
+    rbriggs:
+      email: wirejinn@gmail.com
+      name: wirejinn
+      password: def # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: 'kjskjdna87k3jlka839830390jdl' #random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - jamal41491@gmail.com
